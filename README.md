@@ -1,3 +1,6 @@
+git init
+git status
+git add .
 # git push
 git remote add origin https://github.com/chatofking/git.git  
 git push -u origin main

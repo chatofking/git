@@ -3,7 +3,7 @@ git init
 git add .  
 git status
 # git commit
-git commit -m "first commit"
+git commit -m "commit"
 # git push
 git remote add origin https://github.com/chatofking/git.git  
 git push -u origin main

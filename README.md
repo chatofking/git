@@ -2,6 +2,8 @@
 git init  
 git status  
 git add .
+# git commit
+git commit -m "first commit"
 # git push
 git remote add origin https://github.com/chatofking/git.git  
 git push -u origin main

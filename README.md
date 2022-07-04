@@ -4,6 +4,7 @@ git add .
 git status
 # git commit
 git commit -m "commit"
+git log
 # git push
 git remote add origin https://github.com/chatofking/git.git  
 git push -u origin main

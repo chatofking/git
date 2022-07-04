@@ -1,7 +1,7 @@
 # git add
 git init  
-git status  
 git add .
+git status
 # git commit
 git commit -m "first commit"
 # git push
